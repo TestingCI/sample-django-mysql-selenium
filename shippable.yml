@@ -9,7 +9,7 @@ services:
 
 addons:
   selenium: "2.40"
-  firefox: "3.5"
+  firefox: "0.18"
   
 env:
   global:
